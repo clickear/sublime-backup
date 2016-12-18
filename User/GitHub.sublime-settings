@@ -1,0 +1,11 @@
+{
+	"accounts":
+	{
+		"Clickear":
+		{
+			"base_uri": "https://api.github.com",
+			"github_token": "32c6f3032e229bf72cfa8cef3b8ac2e5e62989ad"
+		}
+	},
+	"active_account": "Clickear"
+}
